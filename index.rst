@@ -17,6 +17,7 @@ Guide
    setup
    scheduling
    privacy
+   tos
 
 
 
