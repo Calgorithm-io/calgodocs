@@ -16,6 +16,7 @@ Guide
 
    setup
    scheduling
+   privacy
 
 
 
